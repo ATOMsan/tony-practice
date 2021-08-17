@@ -22,6 +22,9 @@ const MainLayout = () => (
             <li>
               <Link to="/catalog">Catalog</Link>
             </li>
+            <li>
+              <Link to="/coin">Coin</Link>
+            </li>
           </ul>
         </nav>
       </Toolbar>
